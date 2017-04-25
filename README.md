@@ -1,6 +1,6 @@
 # npmtest-node-redis
 
-#### test coverage for  [node-redis (v0.1.7)](https://github.com/Tim-Smart/node-redis#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-redis.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-redis) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-redis.svg)](https://travis-ci.org/npmtest/node-npmtest-node-redis)
+#### basic test coverage for  [node-redis (v0.1.7)](https://github.com/Tim-Smart/node-redis#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-redis.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-redis) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-redis.svg)](https://travis-ci.org/npmtest/node-npmtest-node-redis)
 
 #### Lightweight, fast, Redis client.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-redis/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-redis/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-redis/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-redis/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-redis/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-redis/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-redis/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-redis/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-redis/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-redis/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-redis/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-redis/build/coverage.html/index.html)
 
@@ -71,7 +71,8 @@
         "type": "git",
         "url": "git+ssh://git@github.com/Tim-Smart/node-redis.git"
     },
-    "version": "0.1.7"
+    "version": "0.1.7",
+    "bin": {}
 }
 ```
 
